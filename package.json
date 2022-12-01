@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "mocha": "^9.0.2",
-    "chai": "^4.3.4"
+    "chai": "^4.3.7"
   },
   "main": "main.js",
   "scripts": {
