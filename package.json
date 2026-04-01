@@ -29,7 +29,7 @@
     "@iobroker/adapter-core": "^2.6.7"
   },
   "devDependencies": {
-    "chai": "^4.3.7",
+    "chai": "^6.2.2",
     "mocha": "^10.1.0"
   },
   "main": "main.js",
